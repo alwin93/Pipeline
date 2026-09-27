@@ -14,7 +14,7 @@
 // ------------------------------------------------------------
 
 const RELEASE_NAME = 'alwin-team-a';        // <-- CHANGE ME
-const BUILD_MESSAGE = 'Deployed by Alwin on sunday';  // <-- CHANGE ME
+const BUILD_MESSAGE = 'Deployed by Alwin on monday';  // <-- CHANGE ME
 
 // ------------------------------------------------------------
 //  👆👆👆  STOP EDITING BELOW THIS LINE  👆👆👆
